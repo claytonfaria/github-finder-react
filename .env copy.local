@@ -1,0 +1,4 @@
+# Rename to .env.local and replace wity your credentials
+
+REACT_APP_GITHUB_CLIENT_ID=''
+REACT_APP_GITHUB_CLIENT_SECRET=''
